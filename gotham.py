@@ -4,7 +4,6 @@ from skimage import io, filters
 import numpy as np
 
 print('Instagram Filter Remake: Gotham')
-
 original_image = skimage.io.imread('images/zell_am_see_snowboarding.jpg')
 original_image = skimage.util.img_as_float(original_image)
 
@@ -21,7 +20,6 @@ def merge_channels(red, green, blue):
     """Merge channels back into an image"""
     return np.stack([red, green, blue], axis=2)
 
-
 r, g, b = split_image_into_channels(original_image)
 im = merge_channels(r, g, b)
 
@@ -32,9 +30,6 @@ def sharpen(image, a, b):
     sharper = np.clip(image * a - blurred * b, 0, 1.0)
     return sharper
 
-
-# viewer = ImageViewer(original_image)
-# viewer.show()
 
 def channel_adjust(channel, values):
     # preserve the original size, so we can reconstruct at the end
