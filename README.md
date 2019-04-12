@@ -49,7 +49,7 @@ Final image on the left, original on the right.
 
 ### Summary
 
-The depth of colours around the boots is nice, as is the extra contrast on the snow capped trees. The increased vibrancy has turned the snow and sky an unwanted redish colour - the vibrancy modification needs to be turned down on the R channel. Vignette looks good however I think i'd like to see it even stronger.
+The depth of colours around the boots is nice, as is the extra contrast on the snow-capped trees. The increased vibrancy has turned the snow and sky an unwanted reddish colour - the vibrancy modification needs to be turned down on the R channel. Vignette looks good however I think i'd like to see it even stronger.
 <p></p>
 
-Overall, it's turned a dull shot into a great playful image. All while maintaing true to the original Instagram Gothom filter.
+Overall, it's turned a dull shot into a great playful image. All while maintaing true to the original Instagram Gotham filter.
