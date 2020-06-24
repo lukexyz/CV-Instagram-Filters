@@ -53,3 +53,13 @@ The depth of colours around the boots is nice, as is the extra contrast on the s
 <p></p>
 
 Overall, it's turned a dull shot into a great playful image. All while maintaing true to the original Instagram Gotham filter.
+___ 
+
+### Acknowledgements
+Michele Pratusevich [Instagram Filters in 15 Lines of Python](https://www.youtube.com/watch?v=otLGDpBglEA) (youtube)   
+
+And for a better blog on the method with more detail (and pictures) 
+https://www.practicepython.org/blog/2016/12/20/instagram-filters-python.html
+
+
+
